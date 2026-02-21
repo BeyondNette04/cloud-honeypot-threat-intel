@@ -20,10 +20,13 @@ High-level architecture showing an Azure-hosted T-Pot honeypot exposed to the in
 - Restricted management access to trusted IPs only
 - Implemented isolation and egress controls to reduce abuse risk
 
+Deployment of Linux VM
 ![T-pot VM](screenshots/vm-creation.png)
 
+Verifying T-Pot Installed & Configured
 ![T-pot Install](screenshots/installed-t-pot.png)
 
+Network Firewall Rules (Shows what ports are exposed to internet)
 ![Firewall Rules](screenshots/net-work-rules.png)
 
 ---
