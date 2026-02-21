@@ -1,6 +1,6 @@
 # Cloud Honeypot Threat Intelligence Lab (Azure + T-Pot)
 
-This project documents the deployment of a cloud-based honeypot in **Microsoft Azure** using **T-Pot** to capture real-world attack telemetry, analyze adversary behavior, and build visual dashboards. The goal is to understand how internet-facing systems are scanned/attacked and to practice practical query skills used by security engineers.
+This project documents the deployment of a cloud-based honeypot in **Microsoft Azure** using **T-Pot** to capture real-world attack telemetry, analyze adversary behavior, and build visual dashboards. The goal is to understand how internet facing systems are scanned/attacked and to practice practical query skills used by security engineers.
 
 ---
 
