@@ -22,6 +22,8 @@ High-level architecture showing an Azure-hosted T-Pot honeypot exposed to the in
 
 ![T-pot VM](screenshots/vm-creation.png)
 
+![T-pot Install](screenshots/Installed-tpot.png)
+
 ![Firewall Rules](screenshots/net-work-rules.png)
 
 ---
