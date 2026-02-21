@@ -8,7 +8,7 @@ This project documents the deployment of a cloud-based honeypot in **Microsoft A
 
 ![Azure T-Pot Honeypot Architecture](architecture/azure-tpot-architecture.png)
 
-*High-level architecture showing an Azure-hosted T-Pot honeypot exposed to the internet with controlled ingress/egress and centralized logging via the Elastic Stack.*
+High-level architecture showing an Azure-hosted T-Pot honeypot exposed to the internet with controlled ingress/egress and centralized logging via the Elastic Stack.
 
 ---
 
