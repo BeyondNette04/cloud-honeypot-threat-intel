@@ -20,6 +20,8 @@ High-level architecture showing an Azure-hosted T-Pot honeypot exposed to the in
 - Restricted management access to trusted IPs only
 - Implemented isolation and egress controls to reduce abuse risk
 
+![Firewall Rules](screenshots/net-work-rules.png)
+
 ---
 
 ## Telemetry Collected
