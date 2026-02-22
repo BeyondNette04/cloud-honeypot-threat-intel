@@ -40,7 +40,7 @@ Network Firewall Rules (Shows what ports are exposed to internet)
 - Frequency trends over time (spikes and scanning waves)
 
 
-![source origin](screenshots/source-ip-origin.png)
+![source origin](screenshots/source-ip-attack.png)
 
 ---
 
