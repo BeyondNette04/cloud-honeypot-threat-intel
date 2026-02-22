@@ -53,7 +53,7 @@ Frequency Trends
 ## Dashboards & Screenshots
 
 ### Kibana Overview
-![Kibana Overview](screenshots/kibana-overview.png)
+![Kibana Overview](screenshots/tcp-authentication.png)
 
 ### Top Attacking Source IPs
 ![Top Source IPs](screenshots/top-source-ips.png)
