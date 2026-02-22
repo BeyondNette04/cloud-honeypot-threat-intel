@@ -42,6 +42,9 @@ Network Firewall Rules (Shows what ports are exposed to internet)
 Source IP addresses in Kibana
 ![source origin](screenshots/source-ip-attack.png)
 
+Brute Force Attempts
+![brute force](screenshots/brute-force-attempts.png)
+
 ---
 
 ## Dashboards & Screenshots
