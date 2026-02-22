@@ -64,3 +64,6 @@ Frequency Trends
 ![SSH Brute Force](screenshots/ssh-bruteforce.png)
 
 ---
+Conclusion 
+
+I enjoyed creating a honeypot and getting able to see what it is like to host something where you openly allow the internet to in theory penterate test what you have setup to either monitor or gain insight on what attacks hacker may try to get access. Being able to see the different countries that attackers are from is when reading the logs shows me that threat actors from all places not just where you are located or general area. Being able to deal with understanding query language  and go through the logs was insightful as it allowed me to go through information in a different way and even locate items faster based on how you query the search. 
