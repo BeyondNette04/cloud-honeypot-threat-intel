@@ -45,6 +45,9 @@ Source IP addresses in Kibana
 Brute Force Attempts
 ![brute force](screenshots/brute-force-attempts.png)
 
+Frequency Trends
+![FT](screenshots/frequency-trends.png)
+
 ---
 
 ## Dashboards & Screenshots
