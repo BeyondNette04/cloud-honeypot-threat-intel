@@ -52,8 +52,10 @@ Frequency Trends
 
 ## Dashboards & Screenshots
 
-### Kibana Overview
+### Kibana Overview (Visualization focuses on authentication-based attack traffic)
 ![Kibana Overview](screenshots/tcp-authentication.png)
+
+![SSH & TELNET](screenshots/chart-right.png)
 
 ### Top Attacking Source IPs
 ![Top Source IPs](screenshots/top-source-ips.png)
