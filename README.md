@@ -59,13 +59,3 @@ Brute Force Attempts
 ![SSH Brute Force](screenshots/ssh-bruteforce.png)
 
 ---
-
-## Query Examples (Day-to-Day Filtering)
-
-### Kibana (KQL-style filters)
-Use these to quickly slice the dataset:
-
-```text
-event.dataset : "cowrie*"
-destination.port : 22
-source.ip : "x.x.x.x"
